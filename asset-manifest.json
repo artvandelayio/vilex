@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.24e2dc53.css",
+    "main.js": "/static/js/main.ad136ac5.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/degenz.png": "/static/media/degenz.7853c522be61f1444fe3.png",
+    "index.html": "/index.html",
+    "main.24e2dc53.css.map": "/static/css/main.24e2dc53.css.map",
+    "main.ad136ac5.js.map": "/static/js/main.ad136ac5.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24e2dc53.css",
+    "static/js/main.ad136ac5.js"
+  ]
+}
